@@ -1,0 +1,8 @@
+[package]
+name = "SigmaOS-onlyoffice-pdf"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_onlyoffice_pdf"
+path = "src/lib.rs"
