@@ -3,7 +3,7 @@ name = "SigmaOS-onlyoffice-pdf"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "onlyoffice-pdf component"
+description = "SigmaOS OnlyOffice component - Rust implementation with AAA tests"
 upstream = []
 
 [contract]
