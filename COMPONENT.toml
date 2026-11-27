@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-onlyoffice-pdf"
+version = "0.1.0"
+category = "productivity"
+description = "SigmaOS OnlyOffice — PDF component"
